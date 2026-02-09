@@ -1,15 +1,15 @@
-# Global Data Job Market: Salary Analysis with SQL
+# Global Data Job Market: Salary Analysis Using SQL
 
 ## Project Overview
 This project analyzes global data job market salaries using SQL to uncover salary patterns based on job roles, experience levels, and employment types.
-
-## Dataset
-Global Data Job Market Salary Dataset (public dataset).
 
 ## Objectives
 Regional Salary Trends
 Experience-Based Pay Scales
 Employment Type Distribution
+
+## Dataset
+Global Data Job Market Salary Dataset (public dataset).
 
 ## Tools
 - SQL (MySQL / PostgreSQL)
