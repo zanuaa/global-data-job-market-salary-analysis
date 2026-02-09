@@ -11,13 +11,16 @@ Regional Salary Trends
 Experience-Based Pay Scales
 Employment Type Distribution
 
+## Tools
+- SQL (MySQL / PostgreSQL)
+
 ## Analysis Approach
 - Data exploration and aggregation using SQL queries.
 - Use of filtering, grouping, and window functions.
 
 ## Conclusion
 
-The analysis shows that data-related roles are increasingly specialized by business domain, and salary levels rise significantly with experience. The largest compensation gap appears between mid-level and senior roles, indicating strong demand for advanced expertise. Geographic factors also play a major role, with Western markets—particularly the United States—offering the highest salary premiums.
+Analysis shows that the role of data is becoming more specialized, with salaries increasing significantly based on experience level. The largest gap occurs between mid-level and senior positions, reflecting strong demand for advanced skills. Geographical factors also play a role, as Western markets, particularly the United States, offer the highest salaries.
 
 ## Recommendations
 
@@ -25,5 +28,3 @@ The analysis shows that data-related roles are increasingly specialized by busin
 - For Employers: Offer competitive compensation, clear career paths, and flexible work arrangements to attract and retain skilled data professionals.
 - For Workforce Development: Prioritize upskilling pathways from entry to mid and senior levels to meet the growing demand for specialized data talent.
 
-## Tools
-- SQL (MySQL / PostgreSQL)
